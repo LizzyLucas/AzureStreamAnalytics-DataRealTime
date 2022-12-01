@@ -1,2 +1,11 @@
-# real-time-Data-with-Azure-Stream-Analytics
-Material para el taller "Datos en tiempo real con Azure Stream Analytics" presentado en el evento de "Data Scients Weekend Vol.2"
+# Datos en tiempo real con Azure Stream Analytics
+
+
+🛠️  _Built by **Lizzie Lucas**_
+
+
+  **IG y Twitter:** lizzielucas_g
+
+  **Github:** LizzyLucas
+
+  **LinkedIn:** in/elizabethlucasg
