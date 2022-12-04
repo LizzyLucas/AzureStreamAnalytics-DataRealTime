@@ -1,24 +1,37 @@
-# Datos en tiempo real con Azure Stream Analytics
+# Datos en tiempo real con _Azure Stream Analytics_ 💥
+⭐⭐⭐⭐⭐
 
-## Creación de recursos
+**¡Hola a todxs!**
 
-1. Descargar los archivos
+En este repo encontrarán:
 
-     git clone https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals dp-900
+* Pasos a seguir para realizar la simulación dentro del Portal de Azure.
+* La [presentación del taller](https://www.canva.com/design/DAFTrdkz0h4/Unkoezl0YRJZIW9G8ZCP_A/view?utm_content=DAFTrdkz0h4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+).
+
+## Creación de recursos a utilizar
+
+Nos dirigimos al portal de Azure e iniciamos el cloud Shell donde iniciaremos con la creación de recursos.
+
+![ ](Azure%Stream/1.%Abrir%entorno%Bash.png?raw=true)
+
+1. Descargar los archivos.
+
+          git clone https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals dp-900
     
-2. Cambiar el directorio
+2. Cambiar el directorio.
 
-     cd dp-900/streaming
+          cd dp-900/streaming
 
-3. Ejecutar un script que cree los recursos de Azure
+3. Ejecutar un script para crear los recursos de Azure necesarios.
 
-     bash setup.sh
+          bash setup.sh
     
-## Uso de los recursos
+## Uso de los recursos creados
 
- Simular un dispositivo que envía datos a IoT Hub
+Una vez que los recursos se han creado 
  
-     bash iotdevice.sh 
+          bash iotdevice.sh 
      
  
     
