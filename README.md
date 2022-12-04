@@ -11,14 +11,16 @@ En este repo encontrarán:
 
 ## Creación de recursos a utilizar
 
-Nos dirigimos al portal de Azure e iniciamos el cloud Shell donde iniciaremos con la creación de recursos.
+Nos dirigimos al portal de Azure e iniciamos el cloud Shell donde crearemos los  recursos.
 
-![ ](Azure%Stream/1.%Abrir%entorno%Bash.png?raw=true)
+![ ](images/1-Abrir-entorno.png)
 
 1. Descargar los archivos.
 
           git clone https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals dp-900
-    
+
+![ ](images/2-Descargar-archivos.png)
+
 2. Cambiar el directorio.
 
           cd dp-900/streaming
@@ -26,15 +28,16 @@ Nos dirigimos al portal de Azure e iniciamos el cloud Shell donde iniciaremos co
 3. Ejecutar un script para crear los recursos de Azure necesarios.
 
           bash setup.sh
-    
+
+![ ](images/3-Grupo-recursos.png)
+
 ## Uso de los recursos creados
 
-Una vez que los recursos se han creado 
- 
-          bash iotdevice.sh 
-     
- 
-    
+Una vez que los recursos se han creado, iniciamos la simulación con:
+
+           bash iotdevice.sh 
+
+Y ahora si tenemos todo listo para comenzar a analizar los datos.
 
 
 🛠️  _Built by **Lizzie Lucas**_
