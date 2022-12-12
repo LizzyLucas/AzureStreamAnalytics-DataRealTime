@@ -39,5 +39,6 @@ Una vez que los recursos se han creado, iniciamos la simulación con:
 
 Y ahora si tenemos todo listo para comenzar a analizar los datos.
 
+¡Bievenidas contribuciones! :octocat:
 
 🛠️  _Built by **Lizzie Lucas**_
